@@ -363,4 +363,4 @@
     console.log(`ℹ️ IMPORTANTE: Completa manualmente los campos de correo y nombre ANTES de ejecutar este script.`);
     console.log(`⏱️ El script comenzará en 3 segundos...`);
     setTimeout(rellenarFormulario, 3000);
-})();
+  })();
