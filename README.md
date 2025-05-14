@@ -1,8 +1,7 @@
 # script
 
-  // Script optimizado para completar automáticamente un formulario de Google Forms sobre AuraUI
-// Configurado para respuestas favorables y envío automático
-(function() {
+
+  (function() {
     // Función para esperar un tiempo aleatorio
     function esperar(ms) {
         return new Promise(resolve => setTimeout(resolve, ms));
